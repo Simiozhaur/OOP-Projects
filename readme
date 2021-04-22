@@ -1,0 +1,3 @@
+My first encounter with OOP and my first homework for my OOP class at the Univeristy of Bucharest.
+
+Using operator overload, constructors, destructors and dynamic allocation I implemented the Polynom class. You can multiply, add or substract two polynomial ecuations.
